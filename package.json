@@ -1,0 +1,24 @@
+{
+  "name": "jwt-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iO-Academy/node-jwt-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iO-Academy/node-jwt-demo/issues"
+  },
+  "homepage": "https://github.com/iO-Academy/node-jwt-demo#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-jwt": "^6.0.0",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
